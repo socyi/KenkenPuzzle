@@ -1,0 +1,19 @@
+/**
+
+@mainpage EPL232 HomeWork1 - Kenken Puzzle
+
+@author Socrates Yiannakou
+
+This is the implementation of a game called Kenken Puzzle. Similar to Sudoku, 
+you fill a board of a certain size, for example 4x4 with digits. For each row
+and column each digit has to be unique. In addition, there are cages, blocks
+of digits. Those digits have to produce the result of an operation. For this 
+project only addition and multiplication are used. The program contains 4 functions.
+The first reads the puzzle, forms it and stores it into arrays. The second function
+guides the user to solve it. The third function prints the solved puzzle in an output
+text file. Finally the fourth function solves the puzzle automatically.
+
+While programming an automatic solver for a Kenken puzzle could be fun,
+it was not easy at all. This was one of my first programs written in C, so I am 
+still trying to learn the language's methods, benefits and limitations.
+*/
